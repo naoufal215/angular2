@@ -1,8 +1,6 @@
-# angular2-quickstart
+# angular2-application example
 
-This tiny repo is done according to angular2 quickstart guide
-just to show how simple it is to use angular2 with 3rd party ng2-* modules
-like this one: https://github.com/valor-software/ng2-bootstrap
+this is a tiny application example of angular2
 
 # Quick start
 
@@ -17,4 +15,4 @@ Add `map` for `moment.js` and `ng2-bootstrap` in system.js config
   ```
 Done
 
-Good luck with angular2 hacking!
+Good luck with angular2 !
